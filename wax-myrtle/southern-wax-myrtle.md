@@ -4,7 +4,7 @@ Scientific Name: Myrica cerifera
 
 Alternate Names:
 
-- Bayberry
+- Southern Bayberry
 
 ## Description ##
 
@@ -21,7 +21,7 @@ Can grow without pruning, planted and shaped as a hedge, or as a small tree with
 - Broadleaf evergreen
 - Texture: Fine
 - Deciduous
-- Growth Rate: Rapid
+- Growth Rate: Rapid (up to 5 feet a year)
 - Habit/Form:
   - Dense
   - Erect
@@ -40,6 +40,8 @@ Interesting plant for grouping in the corner of a large herb garden.
 The fruits of this species have been used for many years to make bayberry candles, soaps, and sealing wax.
 
 Provides excellent winter and extreme weather cover. Flowers provide an excellent source of nectar for honeybes and butterflies. The fruits are eaten by birds, expecially yellow-rumped warbler in the fall and winter.
+
+The dense foliage and extremely rapid growth make it ideal for privacy hedges.
 
 Good buffer and screening plant. Fragrant, wildlife food source, wildlife larval host.
 
@@ -65,7 +67,17 @@ Wax myrtle is winter hardy to USDA Zones 7-10 where is is easily grown in averag
 - Spacing
   - 6 feet centers for hedge
   - 12 feet otherwise
-  
+
+## Care ##
+
+- Water about twice weekly for the first 2-3 months during establishment.
+- Feed with a high quality, slow release fertilizer when planting and in spring.
+- Apply 1 to 2 inches of mulch around the rootzone to keep weeds at bay and help the ground retain moisture.
+- This shrub-tree is no maintenance once established.
+- Can withstand heavy pruning but don't require it.
+  - Late winter is the ideal time for heavy pruning.
+  - Prune dead, diseased, and crowded branches any time of the year.
+
 ## Issues ##
 
 No serious insect or disease problems. Leaf browning typically occurs in cold winters.
@@ -74,4 +86,10 @@ No serious insect or disease problems. Leaf browning typically occurs in cold wi
 
 [Myrica cerifera](https://plants.ces.ncsu.edu/plants/myrica-cerifera/)
 
+[Wax Myrtle](https://hgic.clemson.edu/factsheet/waxmyrtle/)
+
 [Southern Wax Myrtle](https://www.monrovia.com/plant-catalog/plants/1878/southern-wax-myrtle/)
+
+[Wax Myrtle Care: How to Plant Wax Myrtle In Your Garden](https://www.gardeningknowhow.com/ornamental/trees/wax-myrtle/wax-myrtle-care.htm)
+
+[Wax Myrtle for Sale - PlantingTree.com](https://www.plantingtree.com/products/wax-myrtle)
